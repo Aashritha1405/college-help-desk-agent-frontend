@@ -1,0 +1,17 @@
+[
+  {
+    "id": "m1",
+    "role": "assistant",
+    "text": "Hi! I'm the College Help Desk assistant. Ask me about courses, admissions, or placements."
+  },
+  {
+    "id": "m2",
+    "role": "user",
+    "text": "What is the average placement package?"
+  },
+  {
+    "id": "m3",
+    "role": "assistant",
+    "text": "The average placement package is 6 LPA, and the highest package offered recently is 18 LPA."
+  }
+]

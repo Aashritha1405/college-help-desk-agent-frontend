@@ -1,0 +1,36 @@
+{
+  "steps": [
+    {
+      "number": 1,
+      "title": "Academic Eligibility",
+      "description": "Candidates must have completed 12th grade with a minimum of 60% in core subjects (PCM/PCB)."
+    },
+    {
+      "number": 2,
+      "title": "Entrance Examination",
+      "description": "Qualify through the National Entrance Test (NET) or our University Merit Exam held in May."
+    },
+    {
+      "number": 3,
+      "title": "Counseling & PI",
+      "description": "A personal interaction session to understand your goals and map them to our curriculum."
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What is the deadline for applications?",
+      "answer": "The primary application window closes on July 15th every year. Early birds can apply by March for scholarship eligibility."
+    },
+    {
+      "id": 2,
+      "question": "Are international boards accepted?",
+      "answer": "Yes, IB, A-Levels, and other international certifications are accepted upon verification of equivalency."
+    },
+    {
+      "id": 3,
+      "question": "Can I apply for multiple courses?",
+      "answer": "You can list up to 3 preferences in a single application form."
+    }
+  ]
+}

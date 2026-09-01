@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "Engineering",
+    "title": "Computer Science",
+    "description": "Master full-stack development, AI, and cybersecurity with industry-led projects.",
+    "icon": "computer",
+    "accent": "primary"
+  },
+  {
+    "id": 2,
+    "category": "Management",
+    "title": "Business Analytics",
+    "description": "Analyze market trends and drive organizational growth using data-driven insights.",
+    "icon": "analytics",
+    "accent": "tertiary"
+  },
+  {
+    "id": 3,
+    "category": "Design",
+    "title": "Civil Engineering",
+    "description": "Build the infrastructure of tomorrow with sustainable and modern urban planning.",
+    "icon": "architecture",
+    "accent": "secondary"
+  }
+]
